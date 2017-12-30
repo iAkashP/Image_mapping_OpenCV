@@ -1,6 +1,6 @@
-#Image_mapping_OpenCV:
+# Image_mapping_OpenCV:
 
-##necessary modules:
+## Necessary modules:
 OpenCV 2.x.x(OpenCV 3.x.x dont have SIFT,SURF algorithms)
 Pygame
 
